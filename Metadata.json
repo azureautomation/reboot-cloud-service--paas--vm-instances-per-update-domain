@@ -1,0 +1,20 @@
+{
+    "Author": "Gustavo R Lima",
+    "ContentSize": 5021,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/reboot-cloud-service-(paas)-vm-instances-per-update-domain/master/Reboot-CloudService.ps1",
+    "DownloadCount": 1492,
+    "Id": "Reboot-Cloud-Service-PaaS-b337a06d",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 169,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-12-11T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Reboots cloud service instances per update domain. It uses powershell workflow to update all instances in a domain in parallel. This runbook is useful for scenarios where one needs to reboot their service instances while keeping the service running.",
+    "Title": "Reboot Cloud Service (PaaS) VM Instances Per Update Domain",
+    "UpdatedDate": "2015-12-15T00:00:00",
+    "Url": "https://github.com/azureautomation/reboot-cloud-service-(paas)-vm-instances-per-update-domain",
+    "UserTags": "Utility, VM Lifecycle Management, Provisioning"
+}
